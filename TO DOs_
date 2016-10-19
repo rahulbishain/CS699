@@ -1,0 +1,14 @@
+TO DOs:
+==========================
+
+1) Admin login and validation using bootstrap create admin database.
+2) Make Home page to display images,div,tables,pdf link
+3) Remote home page is accessed via ldap so ldap authentication required.
+4) Homepage -> AdminLogin -> AdminHome-> logout
+			
+	AdminHome -> Edit existing data 
+			  -> Add new table, Upload link to new pdf file, image, add links, Update a div, change header, footer, Add a new tab
+			  -> save -> logout
+ Homepage
+
+
